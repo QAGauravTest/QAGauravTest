@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @QAGauravTest
+- 👋 Hi, I’m @QA_Tester
 - 👀 I’m interested in Java with Selenium Testing
 - 🌱 I’m currently learning API Testing
 - 💞️ I’m looking to collaborate on ...
